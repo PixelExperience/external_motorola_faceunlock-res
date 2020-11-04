@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کردنەوە بە ڕووخسار</string>
+    <string name="attr_blur">ڕووخسار زۆر لێڵە</string>
+    <string name="attr_eye_close">هەردوو چاوەکانت بکەرەوە</string>
+    <string name="attr_eye_occlusion">تەنها بەشێکی ڕووخسار دۆزرایەوە</string>
+    <string name="attr_light_dark">ڕووخسارت پێویستی بەڕووناکی زیاترە</string>
+    <string name="attr_light_high">ڕووناکی ڕووخسارت زۆرە</string>
+    <string name="attr_light_shadow">ڕووخسارت سێبەری زۆرە</string>
+    <string name="attr_mouth_occlusion">تەنها بەشێکی ڕووخسار دۆزرایەوە</string>
+    <string name="btn_done">ته‌واو</string>
+    <string name="btn_try">هەوڵبدەرەوە</string>
+    <string name="confirm_lock_screen_btn_auth">ساغکردنەوە</string>
+    <string name="confirm_lock_screen_to_enable_face_summary">بۆ چالاککردنی کردنەوەی بەڕوخسار، پین کۆدەکەت یان تێپەڕەوشەکەت یان پاترۆنەکەت دابنێ</string>
+    <string name="confirm_lock_screen_to_enable_face_title">داواکاری پشتڕاستکردنەوە</string>
+    <string name="disabled_because_device_policy">له‌کارخراوه‌ له‌لایه‌ن به‌ڕێوه‌به‌ره‌وه‌</string>
+    <string name="disabled_because_no_backup_security">بۆ بەکارهێنان، سەرەتا کۆتی ڕوونما دابنێ</string>
+    <string name="face_finish_header_2">بەزۆری لەوێ</string>
+    <string name="face_instruct_anime_next">زانیم</string>
+    <string name="face_intro_conten_first_point">ناسەرەوەی ڕووخسار کەمتر پارێزراوە وەک لە پاتڕۆن ، پینکۆد ، یان تێپەڕەوشە</string>
+    <string name="face_intro_content_second_point">کەسێک کە زۆر لە تۆ بچێت ئەتوانێت مۆبایلەکەت بکاتەوە</string>
+    <string name="face_intro_content_third_point">زانیاری بەکارهێنراو بۆ ناسینەوەی ڕووخسارت بەتایبەتی دەمێنێتەوە لە مۆبایلەکەتدا</string>
+    <string name="face_intro_next">دواتر</string>
+    <string name="face_intro_remember">بیرت بێت: </string>
+    <string name="face_intro_summary">کردنەوەی مۆبایلەکەت بە تەماشاکردنی</string>
+    <string name="face_intro_summary_for_lift">مۆبایلەکەت بکەرەوە لەڕێگای بەرزکردنەوە و تەماشاکردنی.</string>
+    <string name="face_intro_title">دەربارەی ناسەرەوەی ڕووخسار</string>
+    <string name="face_redo_confirm_btn">هەڵگەڕاندنەوە</string>
+    <string name="face_redo_warning_msg">ئایا دڵنیایت لە لادانی ڕووخسار ناسەرەوەی ئێستا و دانانی دانەیەکیتر؟</string>
+    <string name="face_remove_confirm_btn">لەکارخستن</string>
+    <string name="face_remove_warning_msg">ئایا دڵنیایت لە سڕینەوەی هەموو ڕووخسارە ناسراوەکان و ناچالاککردنی ناسەرەوەی ڕووخسار؟</string>
+    <string name="face_setup_summary">دانانی ناسەرەوەی ڕووخسار</string>
+    <string name="face_setup_title">کردنەوە لەگەڵ تەماشاکردنێک</string>
+    <string name="facelock_enabled_summary">ناسەرەوەی ڕووخسار چالاککرا</string>
+    <string name="facelock_setup_notification_text">دانانی ناسەرەوەی ڕووخسار</string>
+    <string name="facelock_setup_notification_title">کردنەوە لەگەڵ تەماشاکردنێک</string>
+    <string name="finish_title">ته‌واوبوو</string>
+    <string name="moto_face_camera_content">ڕووخسارت ڕێکبخە</string>
+    <string name="moto_face_next_content">هەمووی دانران</string>
+    <string name="moto_face_try_content">شتێکی هەڵە ڕوویدا</string>
+    <string name="policy_disabled_alert_msg">ناسەرەوەی ڕووخسار ناچالاککراوە لەلایەن بەڕێوەبەرییەوە</string>
+    <string name="remove_lock_pattern_toast">ڕوخسارە ناسراوەکان سڕانەوە</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_done">Պատրաստ է</string>
+    <string name="btn_try">Փորձեք կրկին</string>
+    <string name="face_intro_next">Հաջորդ</string>
+    <string name="face_intro_remember">Հիշել․</string>
+    <string name="face_redo_confirm_btn">Ետարկել</string>
+    <string name="face_remove_confirm_btn">Անջատել</string>
+    <string name="finish_title">Ավարտված է</string>
+    <string name="unlock_failed">Ներքին սխալ</string>
+    <string name="unlock_failed_face_not_found">Հայտնաբերում</string>
+</resources>
