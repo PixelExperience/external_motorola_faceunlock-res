@@ -13,4 +13,8 @@
     <string name="confirm_lock_screen_btn_auth">Autentificēt</string>
     <string name="confirm_lock_screen_to_enable_face_summary">Lai aktivizētu Sejas atbloķēšanu, ievadiet PIN, paroli vai vizuālo atslēgu</string>
     <string name="confirm_lock_screen_to_enable_face_title">Nepieciešama autentifikācija</string>
+    <string name="security_settings_face_unlock_preference_title">Sejas atbloķēšana</string>
+    <string name="unlock_failed_face_blur">Seja ir pārāk neskaidra</string>
+    <string name="unlock_failed_face_not_complete">Redzama tikai sejas daļa</string>
+    <string name="unlock_failed_quality">Redzama tikai sejas daļa</string>
 </resources>

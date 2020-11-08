@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ફેસ અનલૉક</string>
+    <string name="attr_blur">ચહેરો ખુબજ ઝાંખો</string>
+    <string name="attr_eye_close">બંને આંખો ખુલી રાખો</string>
+    <string name="attr_eye_occlusion">ચહેરાનો થોડો ભાગ દેખાયો</string>
+    <string name="attr_light_dark">ચહેરાને પ્રકાશ માં રાખો</string>
+    <string name="attr_light_high">ચહેરા પર વધારે પ્રકાશ આવે છે</string>
+    <string name="attr_light_shadow">ચહેરા પર ખૂબ વધારે પ્રતિબિંબ આવે છે</string>
+    <string name="attr_mouth_occlusion">ચહેરાનો થોડો ભાગ દેખાયો</string>
+    <string name="btn_done">થઈ ગયું</string>
+    <string name="btn_try">ફરીથી પ્રયાસ કરો</string>
+    <string name="confirm_lock_screen_btn_auth">પ્રમાણીકરણ કરો</string>
+    <string name="confirm_lock_screen_to_enable_face_summary">ફેસ અનલૉક ચાલુ કરવા, પિન, પાસવર્ડ, કે પેટર્ન દાખલ કરો</string>
+    <string name="confirm_lock_screen_to_enable_face_title">પ્રમાણીકરણ જરૂરી</string>
+    <string name="disabled_because_device_policy">વ્યવસ્થાપક દ્વારા સક્ષમ કરેલ</string>
+    <string name="face_finish_header_2">લગભગ પૂર્ણ</string>
+    <string name="face_instruct_anime_next">સમજાઈ ગયું</string>
+    <string name="security_settings_face_unlock_preference_title">ફેસ અનલૉક</string>
+    <string name="unlock_failed_face_blur">ચહેરો ખુબજ ઝાંખો</string>
+    <string name="unlock_failed_face_not_complete">ચહેરાનો થોડો ભાગ દેખાયો</string>
+    <string name="unlock_failed_quality">ચહેરાનો થોડો ભાગ દેખાયો</string>
+</resources>

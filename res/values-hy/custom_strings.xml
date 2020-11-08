@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Դեմքով արգելաբացում</string>
+    <string name="attr_blur">Դեմքը շատ լղոզված է</string>
+    <string name="attr_eye_close">Երկու աչքն էլ բացեք</string>
+    <string name="btn_done">Պատրաստ է</string>
+    <string name="btn_try">Փորձեք կրկին</string>
+    <string name="confirm_lock_screen_btn_auth">Ինքնորոշել</string>
+    <string name="face_intro_next">Հաջորդ</string>
+    <string name="face_intro_remember">Հիշել․</string>
+    <string name="face_intro_title">Դեմքով արգելաբացման մասին</string>
+    <string name="face_redo_confirm_btn">Ետարկել</string>
+    <string name="face_remove_confirm_btn">Անջատել</string>
+    <string name="finish_title">Ավարտված է</string>
+    <string name="security_settings_face_unlock_preference_title">Դեմքով արգելաբացում</string>
+    <string name="unlock_failed">Ներքին սխալ</string>
+    <string name="unlock_failed_face_blur">Դեմքը շատ լղոզված է</string>
+    <string name="unlock_failed_face_not_found">Հայտնաբերում</string>
+    <string name="unlock_failed_warning">Հայտնաբերում</string>
+</resources>

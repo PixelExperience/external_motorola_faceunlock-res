@@ -40,4 +40,8 @@
     <string name="moto_face_try_content">شتێکی هەڵە ڕوویدا</string>
     <string name="policy_disabled_alert_msg">ناسەرەوەی ڕووخسار ناچالاککراوە لەلایەن بەڕێوەبەرییەوە</string>
     <string name="remove_lock_pattern_toast">ڕوخسارە ناسراوەکان سڕانەوە</string>
+    <string name="security_settings_face_unlock_preference_title">کردنەوە بە ڕووخسار</string>
+    <string name="unlock_failed_face_blur">ڕووخسار زۆر لێڵە</string>
+    <string name="unlock_failed_face_not_complete">تەنها بەشێکی ڕووخسار دۆزرایەوە</string>
+    <string name="unlock_failed_quality">تەنها بەشێکی ڕووخسار دۆزرایەوە</string>
 </resources>
